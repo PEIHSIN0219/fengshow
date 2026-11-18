@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://peihsin0219.github.io/fengshow/sitemap.xml
